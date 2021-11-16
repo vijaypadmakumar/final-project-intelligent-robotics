@@ -1,0 +1,13 @@
+/home/iniyan/catkin_ws/install/_setup_util.py
+/home/iniyan/catkin_ws/install/env.sh
+/home/iniyan/catkin_ws/install/setup.bash
+/home/iniyan/catkin_ws/install/local_setup.bash
+/home/iniyan/catkin_ws/install/setup.sh
+/home/iniyan/catkin_ws/install/local_setup.sh
+/home/iniyan/catkin_ws/install/setup.zsh
+/home/iniyan/catkin_ws/install/local_setup.zsh
+/home/iniyan/catkin_ws/install/.rosinstall
+/home/iniyan/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/iniyan/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/iniyan/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/iniyan/catkin_ws/install/share/beginner_tutorials/package.xml

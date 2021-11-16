@@ -1,0 +1,2 @@
+beginner_tutorials:pf_localisation:socspioneer
+-DCATKIN_DEVEL_PREFIX=/home/iniyan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/iniyan/catkin_ws/install -G Unix Makefiles
